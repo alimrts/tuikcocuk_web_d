@@ -1,0 +1,14 @@
+.flippable-card-container {
+  /* === Sizing === */
+  margin: auto;
+  margin-top: 1%;
+  padding-top: 30px;
+  height: 280px;
+  width: 240px;
+  perspective: 1000px;
+  display: flex;
+  flex-direction: 'column';
+  align-items: center;
+  justify-content: center;
+  /* font-size: 12px; */
+}
